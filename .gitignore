@@ -221,3 +221,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# InviteApp
+node_modules/
+frontend/dist/
+data/
+backups/
+deploy/local/
+.env.*
+!.env.example
+*.sqlite*
+*.db
+*.db-*
+*.pem
+*.key
+.DS_Store
